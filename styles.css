@@ -1,7 +1,7 @@
 @font-face {
   font-family: "Vetka";
-  src: url("Vetka-cyrillic.woff2") format("woff2"),
-    url("Vetka-cyrillic.woff") format("woff");
+  src: url("./Vetka-cyrillic.woff2") format("woff2"),
+    url("./Vetka-cyrillic.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   unicode-range: U+0400-04FF;
@@ -9,8 +9,8 @@
 
 @font-face {
   font-family: "Vetka";
-  src: url("../Vetka-latin.woff2") format("woff2"),
-    url("../Vetka-latin.woff") format("woff");
+  src: url("./Vetka-latin.woff2") format("woff2"),
+    url("./Vetka-latin.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   unicode-range: U+0000-007F;
@@ -18,8 +18,8 @@
 
 @font-face {
   font-family: "YanoneKaffeesatz-ExtraLight";
-  src: url("../YanoneKaffeesatz-ExtraLight-cyrillic.woff2") format("woff2"),
-    url("../YanoneKaffeesatz-ExtraLight-cyrillic.woff") format("woff");
+  src: url("./YanoneKaffeesatz-ExtraLight-cyrillic.woff2") format("woff2"),
+    url("./YanoneKaffeesatz-ExtraLight-cyrillic.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   unicode-range: U+0400-04FF;
@@ -27,8 +27,8 @@
 
 @font-face {
   font-family: "YanoneKaffeesatz-ExtraLight";
-  src: url("../YanoneKaffeesatz-ExtraLight-latin.woff2") format("woff2"),
-    url("../YanoneKaffeesatz-ExtraLight-latin.woff") format("woff");
+  src: url("./YanoneKaffeesatz-ExtraLight-latin.woff2") format("woff2"),
+    url("./YanoneKaffeesatz-ExtraLight-latin.woff") format("woff");
   font-weight: normal;
   font-style: normal;
   unicode-range: U+0000-007F;
@@ -80,7 +80,7 @@
   font-size: 5rem; /* Adjust as needed */
   line-height: 1.1;
   text-align: center;
-  background-image: url("../img/background.png"); /* Your background image */
+  background-image: url("./background.png"); /* Your background image */
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
