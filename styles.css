@@ -179,7 +179,7 @@ body {
   box-shadow: 2px 4px 10px #dba0f3(0, 0, 0, 0.2);
   text-align: center;
   width: 222px;
-  height: 305px;
+  height: 305.22px;
   font-family: "YanoneKaffeesatz-ExtraLight", Helvetica, sans-serif;
   font-weight: bold;
   color: #1a131f;
@@ -190,7 +190,7 @@ body {
   max-width: 100%;
   height: auto;
   margin: 0;
-  padding: 10px;
+  padding: 5px;
 }
 
 .figure figcaption {
