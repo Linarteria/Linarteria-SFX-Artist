@@ -172,7 +172,7 @@ body {
 }
 
 .figure {
-  display: flexbox;
+  display: inline-block;
   background-color: white;
   padding: 10px 10px 10px; 
   border: 1px solid #ccc;
@@ -185,7 +185,7 @@ body {
 }
 
 .figure img {
-  display: flex;
+  display: block;
   max-width: 100%;
   height: auto;
   margin: 0;
