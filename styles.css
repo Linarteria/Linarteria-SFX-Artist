@@ -187,13 +187,13 @@ body {
   color: #1a131f;
 }
 
-/*.figure img {
+.figure img {
   display: flex;
   max-width: 100%;
   height: auto;
   margin: 0;
   padding: 10px;
-}*/
+}
 
 .figure figcaption {
   width: 100%;
