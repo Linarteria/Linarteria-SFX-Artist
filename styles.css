@@ -178,7 +178,8 @@ body {
   border: 1px solid #ccc;
   box-shadow: 2px 4px 10px #dba0f3(0, 0, 0, 0.2);
   text-align: center;
-  max-width: fit-content;
+  width: 222px;
+  height: 305.5px;
   font-family: "YanoneKaffeesatz-ExtraLight", Helvetica, sans-serif;
   font-weight: bold;
   color: #1a131f;
